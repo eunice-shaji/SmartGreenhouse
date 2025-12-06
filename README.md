@@ -134,6 +134,7 @@ App Sections:
 │
 └── Resources/                         # Fonts, images, raw assets
 
+
  * Authors
 Eunice Shaji - A00322510
 Aaron Paul - A00320233
